@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/bin/Debug/net6.0/hw3
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/bin/Debug/net6.0/hw3.deps.json
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/bin/Debug/net6.0/hw3.runtimeconfig.json
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/bin/Debug/net6.0/hw3.dll
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/bin/Debug/net6.0/hw3.pdb
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/obj/Debug/net6.0/hw3.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/obj/Debug/net6.0/hw3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/obj/Debug/net6.0/hw3.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/obj/Debug/net6.0/hw3.AssemblyInfo.cs
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/obj/Debug/net6.0/hw3.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/obj/Debug/net6.0/hw3.dll
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/obj/Debug/net6.0/refint/hw3.dll
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/obj/Debug/net6.0/hw3.pdb
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/obj/Debug/net6.0/hw3.genruntimeconfig.cache
+/Users/macbook/Desktop/coding/geekbrains/csharp/domashki/hw3/obj/Debug/net6.0/ref/hw3.dll
